@@ -1,4 +1,1 @@
-courseproject2
-==============
-
-courseproject2
+Exploratory data analysis Project 2
